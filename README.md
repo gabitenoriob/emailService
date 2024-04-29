@@ -1,6 +1,6 @@
-# Microserviço de Envio de E-mails
+# Microserviço para Envio de E-mails
 
-Este é um microserviço desenvolvido em Java 21 com Spring para facilitar o envio de e-mails utilizando os provedores AWS SES (Simple Email Service) e SendGrid. O serviço segue os princípios da arquitetura limpa para garantir uma estrutura modular e de fácil manutenção.
+Este é um microserviço desenvolvido com as tecnologias Java 21 + Spring Boot para facilitar o envio de e-mails utilizando os provedores AWS SES (Simple Email Service) e SendGrid. O serviço segue os princípios da arquitetura limpa para garantir uma estrutura modular e de fácil manutenção.
 
 ## Arquitetura
 
